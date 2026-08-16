@@ -64,26 +64,6 @@ An interactive dashboard designed to analyze BMW sales data and present importan
 
 ---
 
-## 🎯 Currently Learning
-
-* 📊 Advanced Data Analytics
-* 🐍 Advanced Python & Pandas
-* 🗄️ Advanced SQL
-* 📈 Power BI & Business Intelligence
-* 🤖 Machine Learning
-* 🧠 Artificial Intelligence
-* ☁️ Cloud & Data Technologies
-
----
-
-## 📈 My Goals
-
-> **“Learn continuously. Build practically. Grow professionally.”**
-
-My goal is to build a strong career in the **Data & IT industry** by working on real-world projects, solving business problems with data, and continuously improving my technical expertise.
-
----
-
 ## 🤝 Let's Connect
 
 I'm always open to connecting with professionals, recruiters, developers, and fellow data enthusiasts.
@@ -100,25 +80,6 @@ I'm always open to connecting with professionals, recruiters, developers, and fe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman%20Sulanki-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/aman-sulanki-9593b0200/)
 
-### 🐙 GitHub
-
-[![GitHub](https://img.shields.io/badge/GitHub-Amansulanki-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Amansulanki)
-
----
-
-## 📊 GitHub Stats
-
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amansulanki\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amansulanki\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Amansulanki\&theme=tokyonight\&no-frame=true\&margin-w=10)
-
----
 
 ⭐ **Thanks for visiting my profile!**
 
